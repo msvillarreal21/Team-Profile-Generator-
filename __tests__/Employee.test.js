@@ -56,5 +56,5 @@ test("Can get email via getEmail()", () => {
 test("check if email is a string", () => {
     const testValue = "msvillarreal2021@gmail.com";
     const emp = new Employee(5, "Taco", testValue);
-    expect(emp.getEmail()).toEqual(expect.any(string));
+    expect(emp.getEmail()).toEqual(expect.any(String));
 });
