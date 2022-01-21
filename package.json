@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator-",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "index.js",
+  "dependencies": {
+    "i": "^0.3.7",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msvillarreal21/Team-Profile-Generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msvillarreal21/Team-Profile-Generator-/issues"
+  },
+  "homepage": "https://github.com/msvillarreal21/Team-Profile-Generator-#readme"
+}
